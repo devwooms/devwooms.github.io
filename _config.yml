@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://devwooms.github.io/assets/img/favicons/TheLittlePrince_1.png'
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://devwooms.github.io/assets/img/favicons/TheLittlePrince_1.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
