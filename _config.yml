@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: devwooms                          # the main title
 
-tagline: 움스의 기록보관소   # it will display as the sub-title
+tagline: BLOG   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   github
